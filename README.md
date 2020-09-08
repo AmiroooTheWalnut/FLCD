@@ -7,3 +7,5 @@ Written by Amir Mohammad Esmaieeli Sikaroudi for Matlab GUI. This code is provid
 
 LICENSE:
 WARNING: THIS CODE IS INTENDED FOR ACADEMIC USE ONLY, PLEASE SITE THE FOLLOWING PAPER: "Facility layout by collision detection and force exertion heuristics" https://doi.org/10.1016/j.jmsy.2016.07.001 IN ORDER TO ACHIEVE A RELIABLE BENCHMARK FOR THE ALGORITHM, DO NOT USE THE CODE MIXED WITH GUI. PLEASE CUT THE PARTS OF THIS CODE AND RUN OUT OF GUI ENVIRONMENT.
+
+![alt text](https://github.com/AmiroooTheWalnut/FLCD/blob/master/FLCD.png?raw=true)  
